@@ -39,7 +39,7 @@ This Repository
 This repository contains a number of worksheets and presentations that show
 how to use the collection of PyTorch-based OCRopus components.
 
-The presentations are numbered, so it's recommended that you read the in
+The presentations are numbered, so it's recommended that you read them in
 order.
 
 The companion worksheets containing full implementations of the models can be found [on github](https://github.com/tmbdev/icdar2019-worksheets)
